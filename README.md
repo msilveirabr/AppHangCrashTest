@@ -12,4 +12,4 @@
 # TODO:
 - Check if it works with Windows 7/8/8.1 - if not, how to make it compatible?
 - Separate Crash/Hang code into functions to allow:
-  - Include command line parameters to crash/hang 
+  - Include command line parameters to crash/hang
